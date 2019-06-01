@@ -1,0 +1,192 @@
+<html>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">
+
+        <link href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" rel="stylesheet">
+
+        <link href="http://fontawesome.io" rel="stylesheet">
+    <head>
+            <link rel="stylesheet" href="ESAT_Election.css">
+            <script src="ESAT_Election.js"></script>
+    </head>
+
+    <body>
+            <ul>
+                    <li>
+                        <img src="ESAT_qlogo.png" id="qlogo">
+                    </li>
+                </ul>
+                
+                <p id="department" class="dep">Department<span>&#58;</span> Facilities</p>
+
+                <p id="department2" class="dep">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nunc placerat urna nec quam convallis, ut mollis  <br>
+                    dui vulpate. Sed id turpis vitae lacus porta aliquet lobatis quis nisi. Ut eget mollis odio
+                </p>
+
+                <p id="mascot" class="dep"><b>Choose your mascot for this department</b></p>
+                <p id="hover"> (hover over each mascot to know it's meaning)</p>
+
+                <div id="votingmascots" class="votingmascots">
+                    <div class="text"><img src="ESAT_oyster.png" class="text" onclick="show1()" id="oys"> 
+                        <span class="text1" id="oystext1">
+                                My work/the attributes
+                                initiative is not having
+                                direction and needs greater
+                                mentorship or leadership
+                        </span> 
+                    </div>
+
+                    <div class="text"><img src="ESAT_cat.png" class="text" onclick="show2()" id="catss"> 
+                        <span class="text1" id="catstext1">
+                                My work/the attributes
+                                initiative is not having
+                                direction and needs greater
+                                mentorship or leadership
+                        </span>
+                    </div>
+
+                    <div class="text"><img src="ESAT_whale.png" class="text" onclick="show3()" id="whales">
+                        <span class="text1" id="whaletext1">
+                                My work/the attributes
+                                initiative is not having
+                                direction and needs greater
+                                mentorship or leadership
+                        </span>
+                    </div>
+
+                    <div class="text"><img src="ESAT_elephant.png" class="text" onclick="show4()" id="eleph"> 
+                        <span class="text1" id="elephtext1">
+                                My work/the attributes
+                                initiative is not having
+                                direction and needs greater
+                                mentorship or leadership
+                        </span>
+                    </div>
+
+                    
+                    <div class="text"><img src="ESAT_fish.png" class="text" onclick="show5()" id="fi"> 
+                        <span class="text1" id="fitext1">
+                                My work/the attributes
+                                initiative is not having
+                                direction and needs greater
+                                mentorship or leadership
+
+                        </span>
+                    </div>
+
+                    <div class="text"><img src="ESAT_goose.png" class="text" onclick="show6()" id="goos">
+                        <span class="text1" id="goostext1">
+                            My work/the attributes
+                            initiative is not having
+                            direction and needs greater
+                            mentorship or leadership
+                        </span> 
+                    </div>
+                    
+                    
+                    
+                    
+                    <p id="goose" class="text1">
+                          Wild <b>Goose</b> Chase
+                    </p>
+
+                    <p id="oyster">
+                        World is my <b>Oyster</b>
+                    </p>
+                    <p id="cat">
+                            Cat's <b>Meow</b>
+                    </p>
+
+                    <p id="whale">
+                         <b>Whale</b> of time
+                    </p>
+
+                    <p id="elephant" class="text1">
+                            <b>Elephant</b> in the room
+                        </p>
+
+                    <p id="fish">
+                            Dead <b>Fish</b>
+                    </p>
+
+
+                </div>
+
+
+            <p class="test" id="overall"><b>Overall Rating for Facilities</b><p id="lh" class="test"> (1-Lowest, 5-Highest)</p></p>
+
+            <p class="test" id="reason">Any more reasons?</p>
+
+            <p class="test" id="suggestions">Suggestions</p>
+
+            <textarea id="ta" class="test" rows="13" cols="45">  
+Lorem ipsum dolor sit amet,consectetur adipiscing elit.
+Donec accumsan. Lorem ipsum dolors it amet, consectetur
+ad ipiscing elit.Donec accumsan.Loremi psum dolor sit 
+amet, consectetur adipiscing elit. Donec accumsan.Lorem 
+ipsum dolor sit amet, consectetur adipiscing elit.Donec
+accumsan. Lorem ipsum dolor sit amet, consectetur adipiscing
+            </textarea>
+            
+            <p class="test" id="share">Share your reasons for Selecting</p>
+            <p id="wgc" style="display: none;">Wild goose chase</p>
+            <p id="fish1" style="display: none;">Dead Fish</p>
+            <p id="elephant1" style="display: none;">Elephant in the room</p>
+            <p id="whale1" style="display: none;">Whale of time</p>
+            <p id="cat1" style="display: none;">Cat's time</p>
+            <p id="oyster1" style="display: none;">World is my oyster</p>
+
+            <form id="e1" class="test" action="#">
+                <input type="checkbox" id="test1"/>
+                <label for="test1">Lorem ipsum dolor sit amet,consectetur adipiscing elit. Donec accumsan.</label>
+                <br>
+                <br>
+
+  
+                <input type="checkbox" id="test2"/>
+                <label for="test2">Lorem ipsum dolor sit amet,consectetur adipiscing elit. Donec accumsan.</label>
+                <br>
+                <br>
+  
+                <input type="checkbox" id="test3" />
+                <label for="test3">Lorem ipsum dolor sit amet,consectetur adipiscing elit. Donec accumsan.</label>
+                <br>
+                <br>
+ 
+                <input type="checkbox" id="test4"/>
+                <label for="test4">Lorem ipsum dolor sit amet,consectetur adipiscing elit. Donec accumsan.</label>
+
+            </form>
+
+            <input type="text" id="s1" class="test" placeholder="Lorem ipsum dolor sit amet,consectetur adipiscing elit. Donec accumsan.">
+            <input type="text" id="s2" class="test" placeholder="Lorem ipsum dolor sit amet,consectetur adipiscing elit. Donec accumsan.">
+            <input type="text" id="s3" class="test" placeholder="Lorem ipsum dolor sit amet,consectetur adipiscing elit. Donec accumsan.">
+            <input type="text" id="s4" class="test" placeholder="Lorem ipsum dolor sit amet,consectetur adipiscing elit. Donec accumsan.">
+            <input type="text" id="s5" class="test" placeholder="Lorem ipsum dolor sit amet,consectetur adipiscing elit. Donec accumsan.">
+            <input type="text" id="s6" class="test" placeholder="Lorem ipsum dolor sit amet,consectetur adipiscing elit. Donec accumsan.">
+
+            <fieldset class="rating" id="fs">
+                    
+                
+                    <input type="radio" id="star4" name="rating" value="4" onclick="great()"/><label class = "full" for="star4"></label>
+                
+                    <input type="radio" id="star3" name="rating" value="3" onclick="good()"/><label class = "full" for="star3"></label>
+                
+                    <input type="radio" id="star2" name="rating" value="2" onclick="better()"/><label class = "full" for="star2"></label>
+                
+                    <input type="radio" id="star1" name="rating" value="1" onclick="poor()"/><label class = "full" for="star1"></label>
+                 
+            </fieldset>
+
+            
+            <p id="poor" style="display:none;">POOR</p>
+            <p id="better" style="display:none;">COULD BE BETTER</p>
+            <p id="good" style="display:none;">GOOD</p>
+            <p id="great" style="display:none;">GREAT</p>
+
+
+            <input type="button" value="MOVE ON TO NEXT DEPARTMENT" id="button5" class="test">
+
+    </body>
+</html>

@@ -1,0 +1,1898 @@
+@import url("//use.fontawesome.com/releases/v5.6.1/css/all.css");
+
+
+/*desktop*/
+@media only screen and (min-width: 960px)  {
+    body 
+    {
+        font-size: 15px;
+    }
+    #electionday
+    {
+        position: absolute;
+        top: 3.2em;
+        left: 4em;
+        width: 15em;
+        font-size: 5em;
+
+    }
+    #image1
+    {
+        position: absolute;
+        top: 14em;
+        left: 38em;
+        width: 15em;
+    }
+
+    #awesome
+    {
+        position: absolute;
+        top: 25em;
+        left: 11em;
+        flex-wrap: wrap;
+    }
+
+    #button1
+    {
+        position: absolute;
+        top: 16.5em;
+        left: 21em;
+        height: 3em;
+        width: 15em;
+        font-size:4em;
+        border-radius: 0.2em;
+    }
+    #tutorial
+    {
+        position:absolute;
+        left:13em;
+        top:9.7em;
+        font-size: 2em;
+        font-family: 'Josefin slab', serif;
+    }
+
+#button2
+{
+    position: absolute;
+    top: 16.5em;
+    left: 20em;
+    font-size: 1.54em;
+    background-color: white;
+    width: 11em;
+    height: 2.6em;
+    font-family: 'Josefin slab', serif;
+    border-radius:0.2em;
+    
+}
+
+
+#button3
+{
+    position: absolute;
+    top: 16.5em;
+    left: 32em;
+    font-size: 1.54em;
+    background-color: white;
+    width: 11em;
+    height: 2.6em;
+    font-family: 'Josefin slab', serif;
+    border-radius:0.2em;
+    
+}
+
+
+#department
+{
+    font-family: 'Josefin slab', serif;
+    font-size: 3em;
+    position: absolute;
+    top: 1.5em;
+    left: 2em;
+}
+
+#department2
+{
+    font-family: 'Josefin slab', serif;
+    font-size: 1.2em;
+    position: absolute;
+    top: 8em;
+    left:5em;
+    word-wrap: inherit;
+    line-height: 20px;
+}
+
+#mascot
+{
+    font-family: 'Josefin slab', serif;
+    font-size: 1.3em;
+    position: absolute;
+    top: 11.2em;
+    left:4.6em;
+    word-wrap: none;
+    line-height: 28px;
+}
+
+#hover
+{
+    font-family: 'Josefin slab', serif;
+    font-size: 1em;
+    position: absolute;
+    top: 15.3em;
+    left:28em;
+    word-wrap: normal;
+    line-height: 18px;
+}
+#votingmascots
+{
+    
+    position: fixed;
+    right: 0px;
+    top: 18em;
+    left:6em;
+    width: 85%;
+    height: 18em;
+    
+}
+#oyster
+{
+
+    font-size: 1em;
+    position: absolute;
+    top: 13.3em;
+    left:2.5em;
+
+}
+
+#cat
+{
+    font-size: 1em;
+    position: absolute;
+    top: 13.3em;
+    left:17.5em;
+
+}
+
+#whale
+{
+    font-size: 1em;
+    position: absolute;
+    top: 13.3em;
+    left:30.5em;
+}
+
+#elephant
+{
+    font-size: 1em;
+    position: absolute;
+    top: 13.3em;
+    left:42.5em;
+}
+
+#fish
+{
+    font-size: 1em;
+    position: absolute;
+    top: 13.3em;
+    left:58.2em;
+}
+
+#goose
+{
+    font-size: 1em;
+    position: absolute;
+    top: 13.3em;
+    left:69.5em;
+}
+
+
+
+
+#lh
+{
+    position: absolute;
+    top: 35.8em;
+    left: 23.5em;
+    font-size: 1em;
+}
+
+#overall
+{
+    position: absolute;
+    top: 23.3em;
+    left: 3.9em;
+    font-size: 1.5em;
+}
+
+#reason
+{
+    position: absolute;
+    top: 26.9em;
+    left: 27.3em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+}
+
+#suggestions
+{
+    position: absolute;
+    top: 26.9em;
+    left: 48.5em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+}
+
+#ta
+{
+    position: absolute;
+    top: 42.1em;
+    left: 70em;
+    font-size: 0.9em;
+    border: 1px solid grey;
+    text-align: left;
+    font-family: 'Josefin slab', serif;
+}
+
+#share
+{
+    position: absolute;
+    top: 33.2em;
+    left: 5.5em;
+    font-size: 1.2em;
+    font-family: 'Josefin slab', serif;
+}
+
+
+#oyster1
+{
+    position: absolute;
+    top: 30.7em;
+    left: 17.5em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+#cat1
+{
+    position: absolute;
+    top: 30.7em;
+    left: 17.5em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+#whale1
+{
+    position: absolute;
+    top: 30.7em;
+    left: 17.5em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+
+#elephant1
+{
+    position: absolute;
+    top: 30.7em;
+    left: 17.5em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+#fish1
+{
+    position: absolute;
+    top: 30.7em;
+    left: 17.5em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+
+#wgc
+{
+    position: absolute;
+    top: 30.7em;
+    left: 17.5em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+
+
+#e1
+{
+    position: absolute;
+    top: 47.5em;
+    left: 7.5em;
+    font-family: 'Josefin slab', serif;
+    font-size: 0.9em;
+    
+}
+
+#s1
+{
+    position: absolute;
+    top: 42.9em;
+    left: 39.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+
+#s2
+{
+    position: absolute;
+    top: 44.9em;
+    left: 39.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+
+#s3
+{
+    position: absolute;
+    top: 46.9em;
+    left: 39.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+#s4
+{
+    position: absolute;
+    top: 48.9em;
+    left: 39.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+
+#s5
+{
+    position: absolute;
+    top: 50.9em;
+    left: 39.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+
+#s6
+{
+    position: absolute;
+    top: 52.9em;
+    left: 39.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+
+#fs
+{
+    position: absolute;
+    top: 38.1em;
+    left: 7em;
+    display: none;
+}
+#poor
+{
+    position: absolute;
+    top: 42em;
+    left: 17em;
+    font-size: 0.9em;
+
+}
+#better
+{
+    position: absolute;
+    top: 42em;
+    left: 17em;
+    font-size: 0.9em;
+}
+
+#good
+{
+    position: absolute;
+    top: 42em;
+    left: 17em;
+    font-size: 0.9em;
+}
+#great
+{
+    position: absolute;
+    top: 42em;
+    left: 17em;
+    font-size: 0.9em;
+}
+
+#button5
+{
+    position: absolute;
+    top: 8.5em;
+    left: 48em;
+    font-size: 1.3em;
+    height: 3em;
+    width: 21em;
+    border-radius: 0.2em;
+}
+}
+  
+
+
+/*tablet design*/
+
+@media only screen and (max-width: 959px) and (min-width:600px)  {
+    body 
+    {
+        font-size: 12.5px;
+    }    
+    #electionday
+    {
+        position: absolute;
+        top: 3.9em;
+        left: 3em;
+        width: 12em;
+        font-size: 5em;
+    }
+    #image1
+    {
+        position: absolute;
+        top: 16.5em;
+        left: 30em;
+        width: 18em;
+    }
+
+    #awesome
+    {
+        position: absolute;
+        top: 30em;
+        left: 4em;
+        flex-wrap: wrap;
+    }
+
+    #button1
+    {
+        position: relative;
+        top: 18.5em;
+        left: 15em;
+        height: 3em;
+        width: 15em;
+        font-size:2em;
+        border-radius: 0.3em;
+    }
+    #tutorial
+    {
+        position:absolute;
+        left:7em;
+        top:11em;
+        font-size: 2.2em;
+        font-family: 'Josefin slab', serif;
+        width: 20em;
+    }
+    
+    #button2
+    {
+        position: absolute;
+        top: 20em;
+        left: 12em;
+        font-size: 1.54em;
+        background-color: white;
+        width: 11em;
+        height: 2.6em;
+        font-family: 'Josefin slab', serif;
+        border-radius:0.2em;
+        
+    }
+    
+    
+    #button3
+    {
+        position: absolute;
+        top: 20em;
+        left: 25em;
+        font-size: 1.54em;
+        background-color: white;
+        width: 11em;
+        height: 2.6em;
+        font-family: 'Josefin slab', serif;
+        border-radius:0.2em;
+        
+    }
+
+    #department
+{
+    font-family: 'Josefin slab', serif;
+    font-size: 3em;
+    position: absolute;
+    top: 2em;
+    left: 2.3em;
+}
+
+#department2
+{
+    font-family: 'Josefin slab', serif;
+    font-size: 1.2em;
+    position: absolute;
+    top: 9.8em;
+    left:5.7em;
+    word-wrap: inherit;
+    line-height: 20px;
+}
+
+#mascot
+{
+    font-family: 'Josefin slab', serif;
+    font-size: 1.3em;
+    position: absolute;
+    top: 13.7em;
+    left:5.5em;
+    word-wrap: none;
+    line-height: 28px;
+}
+
+#hover
+{
+    font-family: 'Josefin slab', serif;
+    font-size: 1em;
+    position: absolute;
+    top: 18.5em;
+    left:29.5em;
+    line-height: 18px;
+    width:20em;
+}
+#votingmascots
+{
+    
+    position: absolute;
+    left:7em;
+    top:21.5em;
+    width: 55em;
+    height: 37em;
+
+}
+
+#oyster
+{
+
+    font-size: 1em;
+    position: absolute;
+    top: 17.3em;
+    left:4.5em;
+
+}
+
+#cat
+{
+    font-size: 1em;
+    position: absolute;
+    top: 17.3em;
+    left:24.5em;
+
+}
+
+#whale
+{
+    font-size: 1em;
+    position: absolute;
+    top: 17.3em;
+    left:41.5em;
+}
+
+#elephant
+{
+    font-size: 1em;
+    position: absolute;
+    top: 34.3em;
+    left:4.5em;
+}
+
+#fish
+{
+    font-size: 1em;
+    position: absolute;
+    top: 34.3em;
+    left:24.5em;
+}
+
+#goose
+{
+    font-size: 1em;
+    position: absolute;
+    top: 34.3em;
+    left:41em;
+}
+#oys
+{
+    padding: 1em;
+ 
+}
+#catss
+{
+    padding: 1em;
+
+}
+#whales
+{
+    padding: 1em;
+
+}
+#eleph
+{
+    padding: 1em;
+
+}
+#fi
+{
+    padding: 1em;
+
+}
+#goos
+{
+    padding: 1em;
+
+}
+
+
+#lh
+{
+    position: absolute;
+    top: 58.5em;
+    left: 25em;
+    font-size: 1em;
+}
+
+#overall
+{
+    position: absolute;
+    top: 38.4em;
+    left: 4.7em;
+    font-size: 1.5em;
+}
+
+#reason
+{
+    position: absolute;
+    top: 44.6em;
+    left: 27.3em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+}
+
+#suggestions
+{
+    position: absolute;
+    top: 55.6em;
+    left: 5.3em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+}
+
+#ta
+{
+    position: absolute;
+    top: 83.8em;
+    left: 7.6em;
+    font-size: 0.9em;
+    border: 1px solid grey;
+    text-align: left;
+    font-family: 'Josefin slab', serif;
+    width: 30em;
+}
+
+#share
+{
+    position: absolute;
+    top: 52em;
+    left: 5.9em;
+    font-size: 1.2em;
+    font-family: 'Josefin slab', serif;
+}
+
+
+#oyster1
+{
+    position: absolute;
+    top: 48em;
+    left: 17.8em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+#cat1
+{
+    position: absolute;
+    top: 48em;
+    left: 17.8em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+#whale1
+{
+    position: absolute;
+    top: 48em;
+    left: 17.8em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+
+#elephant1
+{
+    position: absolute;
+    top: 48em;
+    left: 17.8em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+#fish1
+{
+    position: absolute;
+    top: 48em;
+    left: 17.8em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+
+#wgc
+{
+    position: absolute;
+    top: 48em;
+    left: 17.8em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+
+
+#e1
+{
+    position: absolute;
+    top: 72.8em;
+    left: 7.7em;
+    font-family: 'Josefin slab', serif;
+    font-size: 0.9em;
+    
+}
+
+#s1
+{
+    position: absolute;
+    top: 69.4em;
+    left: 39.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+
+#s2
+{
+    position: absolute;
+    top: 71.2em;
+    left: 39.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+
+#s3
+{
+    position: absolute;
+    top: 73em;
+    left: 39.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+#s4
+{
+    position: absolute;
+    top: 74.8em;
+    left: 39.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+
+#s5
+{
+    position: absolute;
+    top: 76.6em;
+    left: 39.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+
+#s6
+{
+    position: absolute;
+    top: 78.2em;
+    left: 39.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+
+#fs
+{
+    position: absolute;
+    top: 61em;
+    left: 8.5em;
+    display: none;
+}
+#poor
+{
+    position: absolute;
+    top: 67.6em;
+    left: 19.4em;
+    font-size: 0.9em;
+
+}
+#better
+{
+    position: absolute;
+    top: 67.6em;
+    left: 19.4em;
+    font-size: 0.9em;
+}
+
+#good
+{
+    position: absolute;
+    top: 67.6em;
+    left: 19.4em;
+    font-size: 0.9em;
+}
+#great
+{
+    position: absolute;
+    top: 67.6em;
+    left: 19.4em;
+    font-size: 0.9em;
+}
+
+#button5
+{
+    position: absolute;
+    top: 58em;
+    left: 27em;
+    font-size: 1.3em;
+    height: 3em;
+    width: 21em;
+    border-radius: 0.2em;
+}
+
+}
+
+/*mobile design*/
+@media only screen and (max-width: 599px) and (min-width:340px) {
+    body 
+    {
+        font-size: 10px;
+    }
+    #electionday
+    {
+        position: absolute;
+        top: 5em;
+        left: 2.5em;
+        width: 7em;
+        font-size: 5em;
+    }
+    #image1
+    {
+        position: absolute;
+        top: 22em;
+        left: 16em;
+        width: 20em;
+    }
+
+    #awesome
+    {
+        position: absolute;
+        top: 37em;
+        left: 0.5em;
+        flex-wrap: wrap;
+    }
+
+    #button1
+    {
+        position: relative;
+        top: 26em;
+        left: 7em;
+        height: 3em;
+        width: 15em;
+        font-size:2em;
+        border-radius: 0.3em;
+    }
+    #tutorial
+    {
+        position:absolute;
+        left:8.7em;
+        top:15em;
+        font-size: 2em;
+        font-family: 'Josefin slab', serif;
+        width: 12em;
+    }
+    
+    #button2
+    {
+        position: absolute;
+        top: 24.5em;
+        left: 12.5em;
+        font-size: 1.54em;
+        background-color: white;
+        width: 11em;
+        height: 2.6em;
+        font-family: 'Josefin slab', serif;
+        border-radius:0.2em;
+        
+    }
+    
+    
+    #button3
+    {
+        position: absolute;
+        top: 27.5em;
+        left: 12.5em;
+        font-size: 1.54em;
+        background-color: white;
+        width: 11em;
+        height: 2.6em;
+        font-family: 'Josefin slab', serif;
+        border-radius:0.2em;
+        
+    }
+
+
+#department
+{
+    font-family: 'Josefin slab', serif;
+    font-size: 3em;
+    position: absolute;
+    top: 2.5em;
+    left: 3em;
+}
+
+#department2
+{
+    font-family: 'Josefin slab', serif;
+    font-size: 1.2em;
+    position: absolute;
+    top: 11.2em;
+    left:7.5em;
+    word-wrap: inherit;
+    line-height: 20px;
+}
+
+#mascot
+{
+    font-family: 'Josefin slab', serif;
+    font-size: 1.3em;
+    position: absolute;
+    top: 17.3em;
+    left:7em;
+    word-wrap: none;
+    line-height: 28px;
+}
+
+#hover
+{
+    font-family: 'Josefin slab', serif;
+    font-size: 1em;
+    position: absolute;
+    top: 23.3em;
+    left:31.3em;
+    word-wrap: normal;
+    line-height: 18px;
+    width: 20em;
+}
+    
+
+#votingmascots
+{
+    
+    position: absolute;
+    left:9em;
+    top:26.5em;
+    width: 28em;
+    height: 140em;
+    
+}
+#oyster
+{
+
+    font-size: 1em;
+    position: absolute;
+    top: 20.9em;
+    left:10em;
+
+}
+
+#cat
+{
+    font-size: 1em;
+    position: absolute;
+    top: 44.3em;
+    left:11.5em;
+
+}
+
+#whale
+{
+    font-size: 1em;
+    position: absolute;
+    top: 67.3em;
+    left:10.5em;
+}
+
+#elephant
+{
+    font-size: 1em;
+    position: absolute;
+    top: 89.3em;
+    left:9.5em;
+}
+
+#fish
+{
+    font-size: 1em;
+    position: absolute;
+    top: 112.3em;
+    left:12em;
+}
+
+#goose
+{
+    font-size: 1em;
+    position: absolute;
+    top: 135.3em;
+    left:9.5em;
+}
+#oys
+{
+    padding: 1em;
+    position: relative;
+    left: 3em;
+}
+#catss
+{
+    padding: 1em;
+    position: relative;
+    left: 3em;
+}
+#whales
+{
+    padding: 1em;
+    position: relative;
+    left: 3em;
+}
+#eleph
+{
+    padding: 1em;
+    position: relative;
+    left: 3em;
+}
+#fi
+{
+    padding: 1em;
+    position: relative;
+    left: 3em;
+}
+#goos
+{
+    padding: 1em;
+    position: relative;
+    left: 3em;
+}
+
+#oystext1
+{
+    position: absolute;
+    left: 17em;
+}
+#catstext1
+{
+    position: absolute;
+    left: 17em;
+}
+#whaletext1
+{
+    position: absolute;
+    left: 17em;
+}
+
+#elephtext1
+{
+    position: absolute;
+    left: 17em;
+}
+#fitext1
+{
+    position: absolute;
+    left: 17em;
+}
+#goostext1
+{
+    position: absolute;
+    left: 17em;
+}
+
+#lh
+{
+    position: absolute;
+    top: 166.5em;
+    left: 27.5em;
+    font-size: 1em;
+}
+
+#overall
+{
+    position: absolute;
+    top: 110.5em;
+    left: 6em;
+    font-size: 1.5em;
+}
+
+#reason
+{
+    position: absolute;
+    top: 138.9em;
+    left: 6.8em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+}
+
+#suggestions
+{
+    position: absolute;
+    top: 150.5em;
+    left: 6.9em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+}
+
+#ta
+{
+    position: absolute;
+    top: 221.1em;
+    left: 10em;
+    font-size: 0.9em;
+    border: 1px solid grey;
+    text-align: left;
+    font-family: 'Josefin slab', serif;
+    width: 30em;
+}
+
+#share
+{
+    position: absolute;
+    top: 142em;
+    left:7.5em;
+    font-size: 1.2em;
+    font-family: 'Josefin slab', serif;
+}
+
+
+#oyster1
+{
+    position: absolute;
+    top: 131em;
+    left: 19.5em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+#cat1
+{
+    position: absolute;
+    top: 131em;
+    left: 19.5em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+#whale1
+{
+    position: absolute;
+    top: 131em;
+    left: 19.5em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+
+#elephant1
+{
+    position: absolute;
+    top: 131em;
+    left: 19.5em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+#fish1
+{
+    position: absolute;
+    top: 131em;
+    left: 19.5em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+
+#wgc
+{
+    position: absolute;
+    top: 131em;
+    left: 19.5em;
+    font-size: 1.3em;
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+
+
+#e1
+{
+    position: absolute;
+    top: 193.5em;
+    left: 10em;
+    font-family: 'Josefin slab', serif;
+    font-size: 0.9em;
+    
+}
+
+#s1
+{
+    position: absolute;
+    top: 204.9em;
+    left: 9.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+
+#s2
+{
+    position: absolute;
+    top: 207em;
+    left: 9.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+
+#s3
+{
+    position: absolute;
+    top: 209.2em;
+    left: 9.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+#s4
+{
+    position: absolute;
+    top: 211.3em;
+    left: 9.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+
+#s5
+{
+    position: absolute;
+    top: 213.5em;
+    left: 9.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+
+#s6
+{
+    position: absolute;
+    top: 215.9em;
+    left: 9.5em;
+    font-size: 0.9em;
+    width: 30em;
+}
+
+#fs
+{
+    position: absolute;
+    top: 169em;
+    left: 8.5em;
+    display: none;
+}
+#poor
+{
+    position: absolute;
+    top: 187.7em;
+    left: 20em;
+    font-size: 0.9em;
+
+}
+#better
+{
+    position: absolute;
+    top: 187.7em;
+    left: 20em;
+    font-size: 0.9em;
+}
+
+#good
+{
+    position: absolute;
+    top: 187.7em;
+    left: 20em;
+    font-size: 0.9em;
+}
+#great
+{
+    position: absolute;
+    top: 187.7em;
+    left: 20em;
+    font-size: 0.9em;
+}
+
+#button5
+{
+    position: absolute;
+    top: 164.5em;
+    left: 6.9em;
+    font-size: 1.3em;
+    height: 3em;
+    width: 21em;
+    border-radius: 0.2em;
+}
+  }
+  
+
+
+
+body{
+    background-color: #28b586;
+    background-image: url("ESAT_background.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 1500px;
+}
+
+#content
+{
+    max-width: 1500px;
+}
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: 0px 10px 15px whitesmoke;
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+
+}
+
+
+li
+{
+    display: inline;
+
+}
+
+#qlogo
+{
+    width: 170px;
+    
+}
+
+p
+{
+    font-family: 'Josefin slab', serif;
+}
+
+#electionday
+{
+
+    font-family: 'Josefin slab', serif;
+    line-height: 60px;
+}
+
+
+
+
+#awesome
+{
+
+    font-size: 1.7em;
+    font-family: 'Josefin slab', serif;
+    color: gray;
+    display: block;
+    
+}
+
+#image1
+{
+    z-index: 0;
+    flex-wrap: wrap;
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+#button1
+{
+
+    font-size: 1.6em;
+    background-color: white;
+    
+    font-family: 'Josefin slab', serif;
+    display: inline-block;
+
+}
+
+
+#p1
+{
+    
+    font-family: 'Josefin slab', serif;
+
+}
+
+#tutorial
+{
+    font-family: 'Josefin slab', serif;
+}
+
+#button2
+{
+    background-color: white;
+    font-family: 'Josefin slab', serif;   
+}
+
+
+#button3
+{
+    background-color: white;
+    font-family: 'Josefin slab', serif;
+}
+
+
+
+#nav 
+{
+    border: 0.5px solid;
+    border-color: black;
+    
+}
+#navimage
+{
+    position: absolute;
+    left: 25px;
+    top: 5px;
+    width: 15%;
+
+}
+
+#department
+{
+    font-family: 'Josefin slab', serif;
+
+    word-wrap: normal;
+    line-height: 40px;
+}
+
+#department2
+{
+    font-family: 'Josefin slab', serif;
+
+    word-wrap: inherit;
+    line-height: 20px;
+}
+
+#mascot
+{
+    font-family: 'Josefin slab', serif;
+
+    word-wrap: none;
+    line-height: 28px;
+}
+
+#hover
+{
+    font-family: 'Josefin slab', serif;
+
+    word-wrap: normal;
+    line-height: 18px;
+}
+
+#votingmascots
+{
+    border:1.5px solid #cecece;
+
+}
+
+
+#oyster
+{
+    font-family: 'Josefin slab', serif;
+
+    cursor: pointer;
+}
+
+#cat
+{
+    font-family: 'Josefin slab', serif;
+
+    cursor: pointer;
+}
+
+#whale
+{
+    font-family: 'Josefin slab', serif;
+
+    cursor: pointer;
+}
+
+#elephant
+{
+    font-family: 'Josefin slab', serif;
+
+    cursor: pointer;
+}
+
+#fish
+{
+    font-family: 'Josefin slab', serif;
+
+    cursor: pointer;
+}
+
+#goose
+{
+    font-family: 'Josefin slab', serif;
+
+    cursor: pointer;
+}
+
+.text
+{
+    position: relative;
+    display: inline-flex;
+    cursor: pointer;
+    font-family: 'Josefin slab', serif;
+}
+
+.text .text1
+{
+    visibility: hidden;
+    width: 200px;
+    background-color: black;
+    color:white;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 90%;
+    left: 27%;
+    margin-left: -60px; 
+}
+
+
+
+.text .text1::after
+{
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50;
+    margin-left: 45px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent black transparent;
+}
+
+.text:hover .text1
+{
+    visibility: visible;
+}
+
+.test
+{
+    position: absolute;
+    top: 550px;
+    left: 100px;
+    display: none;
+    font-size: 20px;
+    border: none;
+}
+
+
+
+#reason
+{
+    font-family: 'Josefin slab', serif;
+}
+
+#suggestions
+{
+    font-family: 'Josefin slab', serif;
+}
+
+#ta
+{
+    border: 1px solid grey;
+    text-align: left;
+    font-family: 'Josefin slab', serif;
+}
+
+#share
+{
+    font-family: 'Josefin slab', serif;
+}
+
+
+#oyster1
+{
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+#cat1
+{
+
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+#whale1
+{
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+
+#elephant1
+{
+
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+#fish1
+{
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+
+#wgc
+{
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+
+
+#e1
+{
+
+    font-family: 'Josefin slab', serif;
+}
+
+#s1
+{
+
+    font-family: 'Josefin slab', serif;
+    border: none;
+    border-bottom: 1.5px solid gray;
+    background: transparent;
+}
+
+#s2
+{
+
+    font-family: 'Josefin slab', serif;
+    border: none;
+    border-bottom: 1.5px solid gray;
+    background: transparent;
+}
+
+#s3
+{
+
+    font-family: 'Josefin slab', serif;
+    border: none;
+    border-bottom: 1.5px solid gray;
+    background: transparent;
+}
+
+#s4
+{
+
+    font-family: 'Josefin slab', serif;
+    border: none;
+    border-bottom: 1.5px solid gray;
+    background: transparent;
+}
+
+#s5
+{
+    position: absolute;
+    font-family: 'Josefin slab', serif;
+    border: none;
+    border-bottom: 1.5px solid gray;
+
+    background: transparent;
+}
+
+#s6
+{
+
+    font-family: 'Josefin slab', serif;
+    border: none;
+    border-bottom: 1.5px solid gray;
+    background: transparent;
+}
+
+#fs
+{
+    display: none;
+}
+#poor
+{
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+#better
+{
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+
+#good
+{
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+#great
+{
+    font-family: 'Josefin slab', serif;
+    color: maroon;
+}
+
+#button5
+{
+    background-color: gray;
+    color: white;
+    font-family: 'Josefin slab', serif;
+    box-shadow: 10px 10px 30px gray;
+}
+
+
+
+[type="checkbox"]:not(:checked),
+[type="checkbox"]:checked {
+  display: none;
+  position: absolute;
+  left: 640px;
+}
+[type="checkbox"]:not(:checked) + label,
+[type="checkbox"]:checked + label {
+  position: relative;
+  padding-left: 1.95em;
+  cursor: pointer;
+}
+
+
+[type="checkbox"]:not(:checked) + label:before,
+[type="checkbox"]:checked + label:before {
+  content: '';
+  position: absolute;
+  left: 0; top: 0;
+  width: 1.2em; height: 1.2em;
+  border: 2px solid #ccc;
+  background: #fff;
+}
+
+[type="checkbox"]:not(:checked) + label:after,
+[type="checkbox"]:checked + label:after {
+  content: '\2713\0020';
+  position: absolute;
+  top: -0.25em; left: .05em;
+  font-size: 2.5em;
+  line-height: 0.8;
+  color: #09ad7e;
+  font-family: 'Lucida Sans Unicode', 'Arial Unicode MS', Arial;
+}
+
+[type="checkbox"]:not(:checked) + label:after {
+  opacity: 0;
+  transform: scale(0);
+}
+
+
+fieldset, label { margin: 0; padding: 0; }
+body{ margin: 20px; }
+
+
+.rating { 
+  border: none;
+  float: left;
+  position: absolute;
+  top: 1000px;
+  left: 200px;
+}
+
+.rating > input { display: none; } 
+.rating > label:before { 
+  margin: 5px;
+  font-size: 1.25em;
+  font-family: 'Font Awesome 5 Free'; 
+  display: inline-block;
+  content: "\f005";
+  font-weight: 900;
+}
+
+
+.rating > label { 
+  color: #ddd; 
+ float: right; 
+}
+
+.rating > input:checked ~ label, 
+.rating:not(:checked) > label:hover, 
+.rating:not(:checked) > label:hover ~ label { color: #FFD700;  } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
